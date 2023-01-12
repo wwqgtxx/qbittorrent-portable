@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.5.0-qt6-23 (2023/01/12)
+
+* qBittorrent 4.5.0 QT6
+
 ## 4.4.1-qt6-22 (2022/02/21)
 
 * qBittorrent 4.4.1 QT6
