@@ -1,5 +1,42 @@
 # Changelog
 
+# Changelog
+
+## 4.5.0-23 (2023/01/12)
+
+* qBittorrent 4.5.0
+
+## 4.4.1-qt6-22 (2022/02/21)
+
+* qBittorrent 4.4.1 QT6
+
+## 4.4.1-21 (2022/02/21)
+
+* qBittorrent 4.4.1
+
+## 4.4.0-20 (2021/01/9)
+
+* qBittorrent 4.4.0
+
+## 4.3.9-19 (2021/12/28)
+
+* qBittorrent 4.3.9
+
+## 4.3.5-18 (2021/11/21)
+
+* qBittorrent 4.3.8
+* Portapps 3.4.0
+
+## 4.3.5-17 (2021/05/22)
+
+* qBittorrent 4.3.5
+
+## 4.3.3-16 (2021/03/24)
+
+* qBittorrent 4.3.3
+* Portapps 3.3.0
+* No more win32 release
+
 ## 4.3.5-18 (2021/11/21)
 
 * qBittorrent 4.3.8
